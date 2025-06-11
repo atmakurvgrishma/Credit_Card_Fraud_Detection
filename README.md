@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Fraud Detection using Machine Learning Algorithms and Model Integration with Web Framework
 Machine learning algorithms are able to detect potentially fraudulent  behavior with considerable accuracy and effectiveness by analysing patterns and anomalies  across a wide range of datasets. In this project, we will utilize four different machine learning algorithms (Naive Bayes, KNN, Logistic Regression, and Decision Tree) to develop a model that can accurately predict the likelihood of credit card fraud based on the provided features. A successful detection of credit card fraud through machine learning could lead to reduced financial losses and improve overall safety in the use of cards.  
 
 ## Objective : 
